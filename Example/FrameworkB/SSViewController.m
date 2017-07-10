@@ -7,6 +7,7 @@
 //
 
 #import "SSViewController.h"
+#import <FrameworkB/BClass.h>
 
 @interface SSViewController ()
 
@@ -17,6 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    BClass *b = [BClass new];
+    [b getBMethod];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

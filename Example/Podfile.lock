@@ -1,0 +1,16 @@
+PODS:
+  - FrameworkB (0.1.0)
+
+DEPENDENCIES:
+  - FrameworkB (from `../`)
+
+EXTERNAL SOURCES:
+  FrameworkB:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FrameworkB: 2a6357e1af580344558922837ab3131b8fb724cb
+
+PODFILE CHECKSUM: 5a72d121b07b76d78b3093e0918579073d6b42e2
+
+COCOAPODS: 1.2.1
