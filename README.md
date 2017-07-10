@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FrameworkB
 
 [![CI Status](http://img.shields.io/travis/dulingkang@163.com/FrameworkB.svg?style=flat)](https://travis-ci.org/dulingkang@163.com/FrameworkB)
@@ -27,3 +28,6 @@ dulingkang@163.com, dulingkang@163.com
 ## License
 
 FrameworkB is available under the MIT license. See the LICENSE file for more info.
+=======
+# FrameworkB
+>>>>>>> aea99746deb0b507d912909b85d9d939ee8b9a42
