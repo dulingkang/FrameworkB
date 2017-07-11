@@ -1,0 +1,3 @@
+[submodule "FrameworkD"]
+	path = FrameworkD
+	url = https://github.com/dulingkang/FrameworkD.git
